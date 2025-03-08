@@ -2,7 +2,7 @@
 
 ## Introdução ao repositório
 
-Este repositório tem como objetivo salvar o desenvolvimento de um banco de dados, usando o java como linguagem de programação e o mysql como sistema gerenciador de banco de dados (SGBD).
+Este repositório tem como objetivo salvar o desenvolvimento de um banco de dados, usando o java como linguagem de programação e o mysql.mysql como sistema gerenciador de banco de dados (SGBD).
  
 
 ### Uso do Java em Banco de dados
@@ -22,7 +22,7 @@ OBS: **Caso alguma tecnologia for usada no projeto, ela será adicionada na list
 Segue a lista das tecnologias usadas no projeto:
 
 - Linguagem de Programação: [Java](https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html)
-- Sistema Gerenciador de Banco de Dados (SGBD): [MySQL](https://www.mysql.com/downloads/)
+- Sistema Gerenciador de Banco de Dados (SGBD): [MySQL](https://www.mysql.mysql.com/downloads/)
 
 ## Clonar repositório
 
